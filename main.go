@@ -1,3 +1,4 @@
+//Добавил коммент
 package main
 
 import (
